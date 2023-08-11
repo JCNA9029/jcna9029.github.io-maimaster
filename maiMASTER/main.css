@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    font-family: thiccboi;
+    color: white;
+}
+@font-face {
+    font-family: thiccboi;
+    src: url(image/THICCCBOI-EXTRABOLD.TTF);
+  }
+ #firstsection{
+    background-image: url(image/BG.jpg);
+    background-size:cover ;
+    background-repeat: no-repeat;
+    text-align: center;
+ }
+a{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+   
+    text-decoration: none;
+ }
+ .header{
+    font-size: 50px;
+    position: relative;
+ }
+ 
+ #maimasterlogo{
+  margin-top: -5%;
+  margin-left: 0.5%;
+   width: 250px;
+   height: 175px;
+ }
+ #header{
+padding-top: 5%;
+ }
+ #details, #results{
+  margin-top: -8%;
+  text-shadow: 2px 2px black ;
+ }
+ #details{
+  margin-left: -1%;
+ }
+ #results{
+  margin-right: -1%;
+ }
+ #arrowright, #arrowleft{
+  width: 40px;
+  height: 40px;
+ }
+ #scrolldown{
+    width:100%;
+    bottom:0;
+    text-align:center;
+    margin-top: 34%;
+    font-size: 20px;
+ }
+
+ 
